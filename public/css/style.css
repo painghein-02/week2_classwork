@@ -1,0 +1,64 @@
+.content{
+
+    background-color:grey;
+    
+    font-family: 'Times New Roman', Times, serif
+    ;
+    color:grey;
+
+    font-size: 0.8cm;
+
+    padding: 20px;
+}
+.biography{
+    border-radius: 0.5cm;
+    
+    margin-bottom: 0.5cm;
+
+    background-color: black;
+    
+    font-family: 'Times New Roman', Times, serif
+    ;
+    color:#4c914d;
+
+    font-size: 0.8cm;
+
+    padding: 20px;
+}
+
+.achievements{
+    border-radius: 0.5cm;
+
+    background-color: black;
+
+    font-family: 'Times New Roman', Times, serif;
+    
+    color:#4c914d;
+
+    font-size: 0.8cm;
+
+    padding: 20px;
+}
+
+header { 
+
+  background-color: #4c914d; 
+
+  color: white; 
+
+  text-align: center; 
+
+  padding: 20px; 
+
+} 
+
+footer{
+      background-color: #4c914d; 
+
+  color: white; 
+
+  text-align: center; 
+
+  padding: 20px; 
+
+}
